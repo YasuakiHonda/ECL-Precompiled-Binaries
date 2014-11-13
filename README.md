@@ -1,7 +1,7 @@
 precompiled-binaries
 ====================
 
-Several pre-compiled binaries (including ECL) for Android OS are posted here.
+Several pre-compiled ECL (Embeddable Common Lisp) binaries for Android OS are posted here for your conveniences. There are lot of questions such as 'Can I use Common Lisp on Android?' or 'Where to obtain free Common Lisp on Android?'. I hope anyone can start from here, rather than compiling from sources.
 
 ### Available binaries:
 + ecl
@@ -15,5 +15,8 @@ Several pre-compiled binaries (including ECL) for Android OS are posted here.
 + cd /data/local/tmp
 + chmod 755 ecl
 + ./ecl
+
+### Licensing
+You should follow the licensing terms of ecl-android project and ECL itself when you disribute any work that contains binaries available here.
 
 Enjoy!
