@@ -7,6 +7,9 @@ Several pre-compiled ECL (Embeddable Common Lisp) binaries for Android OS are po
 + ecl
   - Compiled from ecl-android project at https://github.com/ageneau/ecl-android. 
   - For ARM cpu. PIE not supported. Thus good for ARM based Anroid phones/tablets with Android 4.X and before.
++ ecl-pie
+  - Compiled from ecl-android project at https://github.com/ageneau/ecl-android.
+  - For ARM cpu. PIE enabled. Thus good for ARM based Android phones/tablets with Android 5.0 Lolipop and later.
  
 ### How to use pre-compiled binary files
 + Download this project using the 'Download ZIP' button in the right column of this page and expand it.
