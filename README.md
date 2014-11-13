@@ -9,11 +9,11 @@ Several pre-compiled binaries (including ECL) for Android OS are posted here.
   - For ARM cpu. PIE not supported. Thus good for ARM based Anroid phones/tablets with Android 4.X and before.
  
 ### How to use pre-compiled binary files
-+ Download this project
++ Download this project using the 'Download ZIP' button in the right column of this page and expand it.
 + adb push ecl /data/local/tmp
 + adb shell (Hereafter, you are in your android device)
 + cd /data/local/tmp
 + chmod 755 ecl
-+ ecl
++ ./ecl
 
 Enjoy!
